@@ -1,4 +1,4 @@
-/Log/*.log
-
+/logs
+*.log
 *.abc
 *.gif
